@@ -32,7 +32,7 @@ node mandiri.js --help
 
 ## Documentation
 
-![Documentation](documentation1.png)
+![Documentation](https://github.com/yusferdi/Bank-Scrapper/blob/main/documentation1.png?raw=true)
 
 
 ## Authors
